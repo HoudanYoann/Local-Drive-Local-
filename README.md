@@ -6,6 +6,9 @@ Collaborateurs | Nom | Prénom
 ------------ | ------------- | -------------
 3 | Houdan | Yoann
 X | Payen | David
+X | Bacon | Terry
+X | Boukhateb | Abdel-Illah
+
 
 ## Cahier des charges 
 
