@@ -9,6 +9,8 @@ Collaborateurs | Nom | Prénom
 3 | Bacon | Terry
 4 | Boukhateb | Abdel-Illah
 
+http://github.com - automatic!
+[GitHub](http://github.com)
 
 ## Cahier des charges 
 
