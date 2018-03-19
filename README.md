@@ -4,17 +4,15 @@ Projet Final Livraison à domicile de courses
 ## Cahier des charges 
 
 - [ ] Inscription des utilisateurs et leur authentification
-- [ ] Permettre aux utilisateurs authentifiés de communiquer
+- [ ] Permettre aux producteurs authentifiés de partager leurs positions
+- [ ] Permettre aux livreurs authentifiés de partager leurs disponibilités
 - [ ] Gestion du profil (avatar, nom, prénom)
-- [ ] Ajouter et supprimer des objets dans son panier
-- [ ] Ajouter un commentaire à un objet
-- [ ] Filtrer les catégories
 
 ## Consultation du site
 
-- [ ] Afficher les objets
-- [ ] Naviguer selon les catégories
-- [ ] Filtrer les catégories
+- [ ] Afficher les producteurs sur une API de Géolocalisation
+- [ ] Afficher les livreurs sur une catégorie spécifique
+- [ ] Voir les avis des utilisateurs concernant les Producteurs et Livreurs
 - [ ] Voir les commentaires
 - [ ] S'inscrire
 - [ ] Se désinscrire
@@ -25,19 +23,24 @@ Projet Final Livraison à domicile de courses
 - [ ] Reprend les fonctionnalités de consultation du site
 - [ ] S'authentifier 
 
+## Cas d'utilisation - Rôle: Client
+- [ ] Consulter son panier
+- [ ] Valide la/les commandes
+
 ## Cas d'utilisation - Rôle: Livreur
 
 - [ ] Reprend les fonctionnalités de consultation du site
 - [ ] S'authentifier 
 - [ ] Gérer le compte utilisateur (modification coordonnées, mot de passe, avatar, pseudo)
 - [ ] Écrire des commentaires
-- [ ] Consulter son panier
 - [ ] Choisir la quantité des objets
 
 ## Cas d'utilisation - Rôle: Producteur
 
-- [ ] Valide les commentaires
-- [ ] Modère les commentaires
+- [ ] Ajouts d'articles sur la page de son commerce
+- [ ] Ajout d'horaire de son commerce
+- [ ] Ajout de son positionnement géographique
+- [ ] Modifications possibile de toute les features listés (ci-dessus)
 
 ## Cas d'utilisation - Rôle: SuperAdministrateur
 
