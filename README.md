@@ -7,6 +7,7 @@ Projet Final Livraison à domicile de courses
 - [ ] Permettre aux producteurs authentifiés de partager leurs positions
 - [ ] Permettre aux livreurs authentifiés de partager leurs disponibilités
 - [ ] Gestion du profil (avatar, nom, prénom)
+- [ ] Localisation des Producteurs et Livreurs sur une API de Géolocalisation
 
 ## Consultation du site
 
@@ -26,6 +27,12 @@ Projet Final Livraison à domicile de courses
 ## Cas d'utilisation - Rôle: Client
 - [ ] Consulter son panier
 - [ ] Valide la/les commandes
+- [ ] Gérer le compte utilisateur (modification coordonnées, mot de passe, avatar, pseudo)
+- [ ] Permet de noter la/les livraisons du Livreur
+- [ ] Permet de commenter la/les livraisons du Livreur
+- [ ] Permet de noter le/les produits du Producteur
+- [ ] Permet de commenter le/les produits du Producteur
+
 
 ## Cas d'utilisation - Rôle: Livreur
 
@@ -33,13 +40,13 @@ Projet Final Livraison à domicile de courses
 - [ ] S'authentifier 
 - [ ] Gérer le compte utilisateur (modification coordonnées, mot de passe, avatar, pseudo)
 - [ ] Écrire des commentaires
-- [ ] Choisir la quantité des objets
 
 ## Cas d'utilisation - Rôle: Producteur
 
 - [ ] Ajouts d'articles sur la page de son commerce
 - [ ] Ajout d'horaire de son commerce
 - [ ] Ajout de son positionnement géographique
+- [ ] Gérer le compte utilisateur (modification coordonnées, mot de passe, avatar, pseudo)
 - [ ] Modifications possibile de toute les features listés (ci-dessus)
 
 ## Cas d'utilisation - Rôle: SuperAdministrateur
