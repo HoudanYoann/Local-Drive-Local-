@@ -4,10 +4,10 @@
 
 Collaborateurs | Nom | Prénom
 ------------ | ------------- | -------------
-3 | Houdan | Yoann
-X | Payen | David
-X | Bacon | Terry
-X | Boukhateb | Abdel-Illah
+1 | Houdan | Yoann
+2 | Payen | David
+3 | Bacon | Terry
+4 | Boukhateb | Abdel-Illah
 
 
 ## Cahier des charges 
