@@ -5,7 +5,7 @@
 Collaborateurs | Nom | Prénom
 ------------ | ------------- | -------------
 3 | Houdan | Yoann
-  | Payen | David
+X | Payen | David
 
 ## Cahier des charges 
 
