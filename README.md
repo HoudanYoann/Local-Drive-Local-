@@ -2,14 +2,13 @@
  
  Site de Livraison à Domicile de produits Locaux
 
-Collaborateurs | Nom | Prénom
------------- | ------------- | -------------
-1 | Houdan | Yoann
-2 | Payen | David
-3 | Bacon | Terry
-4 | Boukhateb | Abdel-Illah
+Collaborateurs | Nom | Prénom | Lien Github
+------------ | ------------- | ------------- | -------------
+1 | Houdan | Yoann |
+2 | Payen | David |
+3 | Bacon | Terry |
+4 | Boukhateb | Abdel-Illah | [Github](https://github.com/Abdel760) 
 
-http://github.com - automatic!
 [GitHub](http://github.com)
 
 ## Cahier des charges 
