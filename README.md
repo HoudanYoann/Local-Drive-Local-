@@ -2,12 +2,12 @@
  
  Site de Livraison à Domicile de produits Locaux
 
-Collaborateurs | Nom | Prénom | Lien Github
+Collaborateurs | Nom | Prénom | Lien Github | Email
 ------------ | ------------- | ------------- | -------------
-1 | Houdan | Yoann | :mailbox_closed: [Github](https://github.com/HoudanYoann)
-2 | Payen | David |
-3 | Bacon | Terry |
-4 | Boukhateb | Abdel-Illah | :mailbox_closed: [Github](https://github.com/Abdel760) 
+1 | Houdan | Yoann | [Github](https://github.com/HoudanYoann) | :mailbox_closed:
+2 | Payen | David | X | :mailbox_closed:
+3 | Bacon | Terry | X | :mailbox_closed:
+4 | Boukhateb | Abdel-Illah | [Github](https://github.com/Abdel760) | :mailbox_closed:
 
 [GitHub](http://github.com)
 
