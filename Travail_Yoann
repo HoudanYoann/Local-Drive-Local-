@@ -1,1 +1,11 @@
+## Logotype
 
+- [ ]  Création du logo officiel du site Web
+- [ ] Création de différents logo selon les catégories des produits de nos producteurs
+> - [ ] Laitier
+
+- [ ] Inscription des utilisateurs et leur authentification
+- [ ] Gestion des rôles lors de leur inscription : Producteur/Livreur/Client 
+- [ ] Permettre aux producteurs authentifiés de partager leurs positions
+- [ ] Permettre aux livreurs authentifiés de partager leurs disponibilités
+- [ ] Gestion du profil (avatar, nom, prénom
