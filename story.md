@@ -11,6 +11,6 @@ Nous avons le site Web et l'application qu'il vous faut !
 Au fil du temps, nous avons constaté que certaines personnes souhaitaient retrouver les saveurs des produits locaux de vos marchés mais vous ne pouvez pas y allez suite à votre travail, ou un manque de mobilité.
 Nous avons conçu ce site afin de satisfaire vos besoins ! Trouvez des particuliers qui sont prêt à faire vos courses à votre place chez vos producteurs préférés !
 
-Notre objectif, c'est votre satisfaction !
+> Notre objectif, c'est votre satisfaction !
 
 Nous avons constatés que certaines personnes demandaient à leur proches si il était possible d'allez faire leurs courses, mais nous souhaitons diversifier cela dans une entraide collective.
