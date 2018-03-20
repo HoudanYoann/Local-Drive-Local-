@@ -4,3 +4,7 @@
 - [ ] Création des logo selon les catégories de notre site :
 > - [ ] Fromages
 > - [ ] Légumes
+> - [ ] Fruits
+> - [ ] Viandes
+> - [ ] Produits sucrés
+> - [ ] Produits salés
