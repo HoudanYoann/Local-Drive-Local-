@@ -1,5 +1,8 @@
 ## Logotype
 - [ ] Création du logo officiel de notre Site Web
+
+## Charte graphique
+- [ ] Création de la charte graphique complète du site
 ### Création des logo selon les catégories de notre site :
 > - [x] Fromages
 > - [x] Légumes
