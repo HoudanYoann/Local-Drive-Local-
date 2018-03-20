@@ -9,7 +9,6 @@ Collaborateurs | Nom | Prénom | Lien Github | Email
 3 | Bacon | Terry | X | :mailbox_closed:
 4 | Boukhateb | Abdel-Illah | [Github](https://github.com/Abdel760) | :mailbox_closed:
 
-[GitHub](http://github.com)
 
 ## Cahier des charges 
 
