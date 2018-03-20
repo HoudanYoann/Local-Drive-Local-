@@ -8,3 +8,5 @@
 > - [x] Viandes
 > - [x] Produits sucrés
 > - [ ] Produits salés
+> - [ ] Compléments alimentaires
+> - [ ] Boissons
