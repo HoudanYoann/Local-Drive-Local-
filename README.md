@@ -51,6 +51,9 @@ Collaborateurs | Nom | Prénom | Lien Github | Email
 - [ ] Permet de commenter la/les livraisons du Livreur
 - [ ] Permet de noter le/les produits du Producteur
 - [ ] Permet de commenter le/les produits du Producteur
+- [ ] Ajouter une note aux livreurs et producteurs
+- [ ] Ajouter un commentaire et une note à l'article (produit)
+- [ ] Valider la réception
 
 
 ## Cas d'utilisation - Rôle: Livreur
@@ -58,7 +61,12 @@ Collaborateurs | Nom | Prénom | Lien Github | Email
 - [ ] Reprend les fonctionnalités de consultation du site
 - [ ] S'authentifier 
 - [ ] Gérer le compte utilisateur (modification coordonnées, mot de passe, avatar, pseudo)
+- [ ] Accepter ou refuser la mission
+- [ ] Vision de la localisation du client/producteur
+- [ ] Valide la réception au producteur (message envoyé au client et à l'administrateur)
+- [ ] Valide la livraison au client (message envoyé au producteur et à l'administrateur)
 - [ ] Écrire des commentaires
+- [ ] Récapitulatif des livraisons effectuées
 
 ## Cas d'utilisation - Rôle: Producteur
 
@@ -67,6 +75,16 @@ Collaborateurs | Nom | Prénom | Lien Github | Email
 - [ ] Ajout de son positionnement géographique
 - [ ] Gérer le compte utilisateur (modification coordonnées, mot de passe, avatar, pseudo)
 - [ ] Modifications possibile de toute les features listés (ci-dessus)
+- [ ] Répondre à des commentaires
+- [ ] Contacter le support
+- [ ] Valide quand il donne la commande au livreur
+- [ ] Récapitulatif des ventes effectuées
+
+## Cas d'utilisation - Rôle: Modérateur
+
+- [ ] Valide les commentaires
+- [ ] Modère les commentaires
+- [ ] Modère les articles
 
 ## Cas d'utilisation - Rôle: SuperAdministrateur
 
@@ -74,4 +92,4 @@ Collaborateurs | Nom | Prénom | Lien Github | Email
 - [ ] Verrouiller des articles
 - [ ] Ajout de nouveaux objets
 - [ ] Bannir des utilisateurs
-- [ ] Désactive le site Local Drive
+- [ ] Désactive le site Linkcal
