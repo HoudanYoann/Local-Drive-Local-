@@ -5,7 +5,7 @@
 Collaborateurs | Nom | Prénom | Lien Github | Email
 ------------ | ------------- | ------------- | ------------- | -------------
 1 | Houdan | Yoann | [Github](https://github.com/HoudanYoann) | :mailbox_closed:
-2 | Payen | David | X | :mailbox_closed:
+2 | Payen | David | [Github](https://github.com/David761) | :mailbox_closed:
 3 | Bacon | Terry | X | :mailbox_closed:
 4 | Boukhateb | Abdel-Illah | [Github](https://github.com/Abdel760) | :mailbox_closed:
 
