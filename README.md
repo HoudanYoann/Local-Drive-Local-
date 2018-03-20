@@ -13,13 +13,22 @@ Collaborateurs | Nom | Prénom | Lien Github | Email
 ## Cahier des charges 
 
 - [ ] Inscription des utilisateurs et leur authentification
+- [ ] Gestion des rôles lors de leur inscription : Producteur/Livreur/Client 
 - [ ] Permettre aux producteurs authentifiés de partager leurs positions
 - [ ] Permettre aux livreurs authentifiés de partager leurs disponibilités
 - [ ] Gestion du profil (avatar, nom, prénom)
 - [ ] Localisation des Producteurs et Livreurs sur une API de Géolocalisation
+- [ ] Créer et modifier des articles
+- [ ] Système de notations
+- [ ] Filtrer les catégories
+- [ ] Ajouter ou supprimer des objets dans son panier
 
 ## Consultation du site
 
+- [ ] Afficher les articles
+- [ ] Naviguer selon les catégories
+- [ ] Filtrer les catégories
+- [ ] Partager les articles
 - [ ] Afficher les producteurs sur une API de Géolocalisation
 - [ ] Afficher les livreurs sur une catégorie spécifique
 - [ ] Voir les avis des utilisateurs concernant les Producteurs et Livreurs
@@ -27,6 +36,7 @@ Collaborateurs | Nom | Prénom | Lien Github | Email
 - [ ] S'inscrire
 - [ ] Se désinscrire
 - [ ] Contacter le support
+- [ ] Payement et génération de facture et de bons de livraison
 
 ## Cas d'utilisation - Rôle: Visiteur
 
