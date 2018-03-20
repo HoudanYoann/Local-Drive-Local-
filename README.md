@@ -1,6 +1,6 @@
 # Soutenance Mars 2018 - NFactory
  
- Site de Livraison à Domicile de produits Locaux
+:triangular_flag_on_post: Site de Livraison à Domicile de produits Locaux :triangular_flag_on_post:
 
 Collaborateurs | Nom | Prénom | Lien Github | Email
 ------------ | ------------- | ------------- | ------------- | -------------
