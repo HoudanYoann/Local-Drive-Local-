@@ -22,7 +22,35 @@
 > - [ ] Produits salés
 > - [ ] Compléments alimentaires
 > - [ ] Boissons
-> - [ ] Producteurs divers (Laitier + Fruits + Légumes)
+
+## Création logo si le fournisseur a plusieurs catégories de produits :
+> - [ ] Fromages + Légumes
+> - [ ] Fromages + Fruits
+> - [ ] Fromages + Viandes
+> - [ ] Fromages + Produits sucrés
+> - [ ] Fromage + Produits salés
+> - [ ] Fromage + Boissons
+
+> - [ ] Légumes + Fruits
+> - [ ] Légumes + Viandes
+> - [ ] Légumes + Produits sucrés
+> - [ ] Légumes + Produits salés
+> - [ ] Légumes + Boissons
+
+> - [ ] Fruits + Viandes
+> - [ ] Fruits + Produits sucrés
+> - [ ] Fruits + Produits salés
+> - [ ] Fruits + Boissons
+
+> - [ ] Viandes + Produits sucrés
+> - [ ] Viandes + Produits salés
+> - [ ] Viandes + Boissons
+
+> - [ ] Produits sucrés + Produits salés
+> - [ ] Produits sucrés + Boissons
+
+> - [ ] Produits salés + Boissons
+
 
 ## Livreur
 - [ ] Logo Livreur
