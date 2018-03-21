@@ -1,5 +1,7 @@
 ## Logotype
 - [ ] Création du logo officiel de notre Site Web
+- [ ] Ajout d'une page du logo avec le système colorimétrique / Noir et Blanc
+- [ ] Ajout du logo en SVG sur la page dédiée au logo
 
 ## Charte graphique
 - [ ] Présentation du logo
