@@ -24,6 +24,7 @@
 > - [ ] Boissons
 
 ## Création logo si le fournisseur a plusieurs catégories de produits :
+⚠️ Sinon création d'un logo unique et quand le client cliquera dessus, il devra afficher les détails du producteur afin de gagner du temps sur les créations de logo (représentation d'un panier global)
 > - [ ] Fromages + Légumes
 > - [ ] Fromages + Fruits
 > - [ ] Fromages + Viandes
