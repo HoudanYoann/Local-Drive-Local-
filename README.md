@@ -9,11 +9,11 @@ Collaborateurs | Nom | Prénom | Lien Github | Email
 3 | Bacon | Terry | [Github](https://github.com/terryKM) | :mailbox_closed:
 4 | Boukhateb | Abdel-Illah | [Github](https://github.com/Abdel760) | :mailbox_closed:
 
-# Index
+#  :books: Index
 
 * [Cahier des charges](https://github.com/HoudanYoann/Local-Drive-Local-/blob/master/README.md#cahier-des-charges)
-* Consultation du site
-* Cas d'utilisation - Rôle : Visiteur
+* [Consultation du site](https://github.com/HoudanYoann/Local-Drive-Local-#consultation-du-site)
+* [Cas d'utilisation - Rôle : Visiteur](https://github.com/HoudanYoann/Local-Drive-Local-#cas-dutilisation---r%C3%B4le-visiteur)
 
 
 ## Cahier des charges 
