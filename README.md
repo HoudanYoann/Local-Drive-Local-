@@ -9,6 +9,12 @@ Collaborateurs | Nom | Prénom | Lien Github | Email
 3 | Bacon | Terry | [Github](https://github.com/terryKM) | :mailbox_closed:
 4 | Boukhateb | Abdel-Illah | [Github](https://github.com/Abdel760) | :mailbox_closed:
 
+#Index
+
+* Cahier des charges
+* Consultation du site
+* Cas d'utilisation - Rôle : Visiteur
+
 
 ## Cahier des charges 
 
