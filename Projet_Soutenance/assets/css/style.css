@@ -1,0 +1,162 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+    height: auto;
+}
+
+/************** Barre de navigation ***************/
+#header {
+    border-bottom: 2px solid #eff1f6;
+}
+
+.btn-outline {
+    border-color: #956829;
+    background-color: #956829 ;
+    margin-right: 5px;
+}
+
+.btn-outline a {
+    color: white;
+}
+
+.btn-outline:hover {
+    background-color: #956829;
+
+}
+.btn-outline a:hover {
+    color: white;
+    text-decoration: none;
+    background-color: #956829;
+    border-color: #956829;
+;
+}
+
+/**************** home.php ****************/
+
+.details {
+    padding-top: 30px;
+    margin-left: 50px;
+    margin-bottom: 50px;
+}
+
+
+/****************** Productor.php ********************/
+
+/* Catégorie profil */
+.profil-user {
+    text-align: center;
+    border-right: 2px solid #eff1f6;
+}
+.profile-userpic {
+    margin-top: 30px;
+}
+.profile-userpic img {
+    float: none;
+    margin: 0 auto;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+.profile-usertitle {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.btn-success {
+    margin-top: 20px;
+}
+
+/* Catégorie : Produits */
+
+.product {
+    margin-top: 20px;
+}
+.price {
+    float: right;
+}
+
+
+/*************** Localisation.php ********************/
+
+/* Boutons annuler & envoyez */
+.btn-default {
+    margin-left: 5px;
+}
+
+
+
+/********************* login.php *********************/
+
+.loginForm {
+    width: 100%;
+}
+#login {
+    margin-top: 40px;
+    margin-bottom: 60px;
+    margin-left: 20%;
+}
+#loginform {
+    margin-left: 30%;
+}
+
+/********************* Footer *********************/
+
+footer {
+    width: 100%;
+    height: auto;
+    background-color: #956829;
+    float: left;
+}
+
+footer .col-xs-12 {
+    display: inline-block;
+}
+
+.col-xs-3 {
+    /* Positionnements et dimensions */
+    float: left;
+}
+.col-xs-3 h2 {
+   /* Positionnements et dimensions */
+    padding: 20px 0px 5px 40px;
+
+    /* Décorations */
+    color: white;
+    text-transform: uppercase;
+    font-size: 12px;
+    font-weight: normal;
+}
+.col-xs-3 ul li {
+    /* Positionnements et dimensions */
+
+    /* Décorations*/
+    list-style: none;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.col-xs-3 ul li a {
+    /* Décorations */
+    color: #E0CDA9;
+}
+
+.col-xs-3 ul li a:hover {
+    /* Décorations*/
+    color: white;
+    text-decoration: none;
+}
+
+/* .fab = icones de font-awesome */
+.fab {
+    font-size: 40px;
+    color: #E0CDA9;
+}
+.fab:hover {
+    color: #ffffff;
+}
+
+.logo-awesome {
+    padding-left: 40px;
+}
+
