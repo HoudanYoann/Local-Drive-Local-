@@ -22,7 +22,7 @@ Collaborateurs | Nom | Prénom | Lien Github | Email
 
 ## Cahier des charges 
 
-- [ ] Inscription des utilisateurs et leur authentification
+- [x] Inscription des utilisateurs et leur authentification
 - [ ] Gestion des rôles lors de leur inscription : Producteur/Livreur/Client 
 - [ ] Permettre aux producteurs authentifiés de partager leurs positions
 - [ ] Permettre aux livreurs authentifiés de partager leurs disponibilités
@@ -30,33 +30,33 @@ Collaborateurs | Nom | Prénom | Lien Github | Email
 - [ ] Localisation des Producteurs et Livreurs sur une API de Géolocalisation
 - [ ] Créer et modifier des articles
 - [ ] Système de notations
-- [ ] Filtrer les catégories
-- [ ] Ajouter ou supprimer des objets dans son panier
+- [x] Filtrer les catégories
+- [x] Ajouter ou supprimer des objets dans son panier
 
 ## Consultation du site
 
-- [ ] Afficher les articles
+- [x] Afficher les articles
 - [ ] Naviguer selon les catégories
-- [ ] Filtrer les catégories
+- [x] Filtrer les catégories
 - [ ] Partager les articles
-- [ ] Afficher les producteurs sur une API de Géolocalisation
+- [x] Afficher les producteurs sur une API de Géolocalisation
 - [ ] Afficher les livreurs sur une catégorie spécifique
 - [ ] Voir les avis des utilisateurs concernant les Producteurs et Livreurs
 - [ ] Voir les commentaires
-- [ ] S'inscrire
-- [ ] Se désinscrire
-- [ ] Contacter le support
+- [x] S'inscrire
+- [x] Se désinscrire
+- [x] Contacter le support
 - [ ] Payement et génération de facture et de bons de livraison
 
 ## Cas d'utilisation - Rôle: Visiteur
 
-- [ ] Reprend les fonctionnalités de consultation du site
-- [ ] S'authentifier 
+- [x] Reprend les fonctionnalités de consultation du site
+- [x] S'authentifier 
 
 ## Cas d'utilisation - Rôle: Client
-- [ ] Consulter son panier
+- [x] Consulter son panier
 - [ ] Valide la/les commandes
-- [ ] Gérer le compte utilisateur (modification coordonnées, mot de passe, avatar, pseudo)
+- [x] Gérer le compte utilisateur (modification coordonnées, mot de passe, avatar, pseudo)
 - [ ] Permet de noter la/les livraisons du Livreur
 - [ ] Permet de commenter la/les livraisons du Livreur
 - [ ] Permet de noter le/les produits du Producteur
@@ -68,9 +68,9 @@ Collaborateurs | Nom | Prénom | Lien Github | Email
 
 ## Cas d'utilisation - Rôle: Livreur
 
-- [ ] Reprend les fonctionnalités de consultation du site
-- [ ] S'authentifier 
-- [ ] Gérer le compte utilisateur (modification coordonnées, mot de passe, avatar, pseudo)
+- [x] Reprend les fonctionnalités de consultation du site
+- [x] S'authentifier 
+- [x] Gérer le compte utilisateur (modification coordonnées, mot de passe, avatar, pseudo)
 - [ ] Accepter ou refuser la mission
 - [ ] Vision de la localisation du client/producteur
 - [ ] Valide la réception au producteur (message envoyé au client et à l'administrateur)
@@ -80,13 +80,13 @@ Collaborateurs | Nom | Prénom | Lien Github | Email
 
 ## Cas d'utilisation - Rôle: Producteur
 
-- [ ] Ajouts d'articles sur la page de son commerce
+- [x] Ajouts d'articles sur la page de son commerce
 - [ ] Ajout d'horaire de son commerce
 - [ ] Ajout de son positionnement géographique
-- [ ] Gérer le compte utilisateur (modification coordonnées, mot de passe, avatar, pseudo)
+- [x] Gérer le compte utilisateur (modification coordonnées, mot de passe, avatar, pseudo)
 - [ ] Modifications possibile de toute les features listés (ci-dessus)
 - [ ] Répondre à des commentaires
-- [ ] Contacter le support
+- [x] Contacter le support
 - [ ] Valide quand il donne la commande au livreur
 - [ ] Récapitulatif des ventes effectuées
 
